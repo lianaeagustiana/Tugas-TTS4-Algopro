@@ -11,7 +11,7 @@ def input_penjualan_manual():
     print("=== INPUT DATA PENJUALAN AGROINDUSTRI ===")
 
     # Meminta input dari pengguna
-    produk = input("Nama Produk Agroindustri (misal: Minyak Jelantah, Keripik Pisang): ")
+    produk = input("Nama Produk Agroindustri (misal: Minyakk Jelantah, Keripik Pisang): ")
     kategori = input("Kategori Produk (misal: Olahan Hasil Tani / Perkebunan): ")
     jumlah_kg = float(input("Jumlah Terjual (kg/satuan): "))
     harga_per_unit = float(input("Harga per Unit (Rp): "))
